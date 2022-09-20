@@ -1,0 +1,15 @@
+C:\12\CR\Cr\bin\Debug\net6.0\Cr.exe
+C:\12\CR\Cr\bin\Debug\net6.0\Cr.deps.json
+C:\12\CR\Cr\bin\Debug\net6.0\Cr.runtimeconfig.json
+C:\12\CR\Cr\bin\Debug\net6.0\Cr.dll
+C:\12\CR\Cr\bin\Debug\net6.0\Cr.pdb
+C:\12\CR\Cr\obj\Debug\net6.0\Cr.csproj.AssemblyReference.cache
+C:\12\CR\Cr\obj\Debug\net6.0\Cr.GeneratedMSBuildEditorConfig.editorconfig
+C:\12\CR\Cr\obj\Debug\net6.0\Cr.AssemblyInfoInputs.cache
+C:\12\CR\Cr\obj\Debug\net6.0\Cr.AssemblyInfo.cs
+C:\12\CR\Cr\obj\Debug\net6.0\Cr.csproj.CoreCompileInputs.cache
+C:\12\CR\Cr\obj\Debug\net6.0\Cr.dll
+C:\12\CR\Cr\obj\Debug\net6.0\refint\Cr.dll
+C:\12\CR\Cr\obj\Debug\net6.0\Cr.pdb
+C:\12\CR\Cr\obj\Debug\net6.0\Cr.genruntimeconfig.cache
+C:\12\CR\Cr\obj\Debug\net6.0\ref\Cr.dll
